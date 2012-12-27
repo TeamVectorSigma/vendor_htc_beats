@@ -139,9 +139,7 @@ vendor/htc/beats/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwra
 vendor/htc/beats/lib/soundfx/libsrsfx.so:system/lib/soundfx/libsrsfx.so \
 vendor/htc/beats/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
 vendor/htc/beats/lib/soundfx/libxloudwrapper.so:system/lib/soundfx/libxloudwrapper.so \
-vendor/htc/beats/app/HtcBeatsNotify.apk:system/app/HtcBeatsNotify.apk \
-vendor/htc/beats/app/HtcListen.apk:system/app/HtcListen.apk \
-vendor/htc/beats/app/HtcMusicEnhancer.apk:system/app/HtcMusicEnhancer.apk \
-vendor/htc/beats/app/HtcSoundSetDownloadManager.apk:system/app/HtcSoundSetDownloadManager.apk 
+	vendor/htc/beats/app/MusicFX.apk:system/app/MusicFX.apk \
+	vendor/htc/beats/app/BEATS.apk:system/app/BEATS.apk
 
 
