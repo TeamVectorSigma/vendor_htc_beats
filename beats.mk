@@ -142,6 +142,6 @@ vendor/htc/beats/lib/soundfx/libxloudwrapper.so:system/lib/soundfx/libxloudwrapp
 vendor/htc/beats/app/HtcBeatsNotify.apk:system/app/HtcBeatsNotify.apk \
 vendor/htc/beats/app/HtcListen.apk:system/app/HtcListen.apk \
 vendor/htc/beats/app/HtcMusicEnhancer.apk:system/app/HtcMusicEnhancer.apk \
-vendor/htc/beats/app/HtcSounSetDownloadManager.apk:system/app/HtcSounSetDownloadManager.apk 
+vendor/htc/beats/app/HtcSoundSetDownloadManager.apk:system/app/HtcSoundSetDownloadManager.apk 
 
 

@@ -138,7 +138,7 @@ vendor/htc/beats/lib/soundfx/libcyanogen-dsp.so:system/lib/soundfx/libcyanogen-d
 vendor/htc/beats/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
 vendor/htc/beats/lib/soundfx/libsrsfx.so:system/lib/soundfx/libsrsfx.so \
 vendor/htc/beats/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
-vendor/htc/beats/lib/soundfx/libloudwrapper.so:system/lib/soundfx/libloudwrapper.so \
+vendor/htc/beats/lib/soundfx/libxloudwrapper.so:system/lib/soundfx/libxloudwrapper.so \
 vendor/htc/beats/app/HtcBeatsNotify.apk:system/app/HtcBeatsNotify.apk \
 vendor/htc/beats/app/HtcListen.apk:system/app/HtcListen.apk \
 vendor/htc/beats/app/HtcMusicEnhancer.apk:system/app/HtcMusicEnhancer.apk \
