@@ -31,7 +31,7 @@ vendor/htc/beats/bin/dynimage_gec_x.bin:system/bin/dynimage_gec_x.bin \
 vendor/htc/beats/bin/dynimage_ibeats.bin:system/bin/dynimage_ibeats.bin \
 vendor/htc/beats/bin/dynimage_ibeats_solo.bin:system/bin/dynimage_ibeats_solo.bin \
 vendor/htc/beats/bin/dynimage_ibeats_solo_x.bin:system/bin/dynimage_ibeats_solo_x.bin \
-vendor/htc/beats/bin/dynimage_ibeats_x.binn:system/bin/dynimage_ibeats_x.bin \
+vendor/htc/beats/bin/dynimage_ibeats_x.bin:system/bin/dynimage_ibeats_x.bin \
 vendor/htc/beats/bin/mm-audio-alsa-test:system/bin/mm-audio-alsa-test \
 vendor/htc/beats/bin/mm-venc-omx-test720p:system/bin/mm-venc-omx-test720p \
 vendor/htc/beats/bin/mm-video-encdrv-test:system/bin/mm-video-encdrv-test \

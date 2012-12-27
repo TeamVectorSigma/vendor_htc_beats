@@ -72,7 +72,7 @@ vendor/htc/beats/etc/soundimage/Sound_Dolby_V_HP.txt:system/etc/soundimage/Sound
 vendor/htc/beats/etc/soundimage/Sound_Dolby_V_SPK.txt:system/etc/soundimage/Sound_Dolby_V_SPK.txt \
 vendor/htc/beats/etc/soundimage/Sound_Dualmic_EP.txt:system/etc/soundimage/Sound_Dualmic_EP.txt \
 vendor/htc/beats/etc/soundimage/Sound_Dualmic_SPK.txt:system/etc/soundimage/Sound_Dualmic_SPK.txt \
-vendor/htc/beats/etc/soundimage/Sound_Dualmic.txt:system/etc/soundimage/Sound_Dualmic.txt \ 
+vendor/htc/beats/etc/soundimage/Sound_Dualmic.txt:system/etc/soundimage/Sound_Dualmic.txt \
 vendor/htc/beats/etc/soundimage/Sound_Jazz.txt:system/etc/soundimage/Sound_Jazz.txt \
 vendor/htc/beats/etc/soundimage/Sound_Latin.txt:system/etc/soundimage/Sound_Latin.txt \
 vendor/htc/beats/etc/soundimage/Sound_New_Age.txt:system/etc/soundimage/Sound_New_Age.txt \
@@ -85,7 +85,7 @@ vendor/htc/beats/etc/soundimage/Sound_Original.txt:system/etc/soundimage/Sound_O
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_HP_BCLK.txt:system/etc/soundimage/Sound_Phone_Original_HP_BCLK.txt \
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_HP_WB.txt:system/etc/soundimage/Sound_Phone_Original_HP_WB.txt \
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_REC_BCLK.txt:system/etc/soundimage/Sound_Phone_Original_REC_BCLK.txt \
-vendor/htc/beats/etc/soundimage/Sound_Phone_Original_REC_NEL.txt:system/etc/soundimage/Sound_Phone_Original_REC_NEL.txt \ 
+vendor/htc/beats/etc/soundimage/Sound_Phone_Original_REC_NEL.txt:system/etc/soundimage/Sound_Phone_Original_REC_NEL.txt \
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_REC_WB.txt:system/etc/soundimage/Sound_Phone_Original_REC_WB.txt \
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_SPK_BCLK.txt:system/etc/soundimage/Sound_Phone_Original_SPK_BCLK.txt \
 vendor/htc/beats/etc/soundimage/Sound_Phone_Original_SPK_WB.txt:system/etc/soundimage/Sound_Phone_Original_SPK_WB.txt \
